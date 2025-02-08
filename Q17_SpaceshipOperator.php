@@ -15,6 +15,6 @@
     echo "y" <=> "x"; // Outputs: 1
     echo "<br>";
 
-    echo "This program is executed by Deepanshu Sharma!";
+    echo "This program is executed by Sanyam Bansal!";
 
 ?>
