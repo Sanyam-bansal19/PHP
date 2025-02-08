@@ -4,5 +4,5 @@
 	{
 		echo $i. "<br>";
 	}
-	echo "<br> This program is executed by Deepanshu Sharma!";
+	echo "<br> This program is executed by Sanyam Bansal!";
 ?>
