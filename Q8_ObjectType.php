@@ -12,5 +12,5 @@
 	$message = new greeting;
     	var_dump($message);
 	echo "<br><br>". $message->show_greeting(). "Deepanshu Ji<br>";
-	echo "<br>This code is executed by Deepanshu Sharma!";
+	echo "<br>This code is executed by Sanyam Bansal!";
 ?>
