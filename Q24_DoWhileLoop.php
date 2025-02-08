@@ -5,5 +5,5 @@
 		echo "Execution number: ". $num. " ". "<br>";
 		$num++;
 	} while($num<10);
-	echo "<br> This program is executed by Deepanshu Sharma!";
+	echo "<br> This program is executed by Sanyam Bansal!";
 ?>
