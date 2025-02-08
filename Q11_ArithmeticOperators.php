@@ -7,6 +7,6 @@
 	echo "$x	*	$z	= ". ($x * $z). "<br>";
 	echo "$x	/	$z	= ". ($x / $z). "<br>";
 	echo "$x	%	$z	= ". ($x % $z). "<br>";
-	echo "<br> This code is executed by Deepanshu Sharma!";
+	echo "<br> This code is executed by Sanyam Bansal!";
 ?>
 	
