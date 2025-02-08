@@ -11,7 +11,7 @@
     var_dump($x != $y);  // Outputs: boolean true
     echo "<br>";
     var_dump($x !== $z); // Outputs: boolean true
-    echo "<br> This code is executed by Deepanshu Sharma!";
+    echo "<br> This code is executed by Sanyam Bansal!";
     
 
 ?>
