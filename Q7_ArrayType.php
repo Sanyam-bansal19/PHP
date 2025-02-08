@@ -7,5 +7,5 @@
         	"Blue" => "#0000ff");
 	echo "<br>Color code type ";
 	var_dump($color_codes);
-	echo "<br>This code is executed by Deepanshu Sharma!";
+	echo "<br>This code is executed by Sanyam Bansal!";
 ?>
