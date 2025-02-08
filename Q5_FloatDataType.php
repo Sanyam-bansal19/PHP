@@ -4,5 +4,5 @@
 	$result = $num + $num2;
 	echo "The sum of $num and $num2 is: $result<br>";
 	var_dump($result);	
-	echo "<br> This code is executed by Deepanshu Sharma!";
+	echo "<br> This code is executed by Sanyam Bansal!";
 ?>
