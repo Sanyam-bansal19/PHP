@@ -20,5 +20,5 @@
     {
 	echo "A is Bigger..";
     }
-    echo "<br> This program is executed by Deepanshu Sharma!";
+    echo "<br> This program is executed by Sanyam Bansal!";
 ?>
