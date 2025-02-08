@@ -22,6 +22,6 @@
     $x = 100;
     $x %= 15;
     echo "$x <br>"; // Outputs: 10
-    echo "This code is executed by Deepanshu Sharma!";
+    echo "This code is executed by Sanyam Bansal!";
 
 ?>
