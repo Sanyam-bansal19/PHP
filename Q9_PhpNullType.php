@@ -9,6 +9,6 @@
 	$b = NULL;
 	echo "<br>B value after updating: ";
 	var_dump($b);
-	echo "<br>This code is executed by Deepanshu Sharma!";
+	echo "<br>This code is executed by Sanyam Bansal!";
 ?>
 	
