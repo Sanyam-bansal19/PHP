@@ -7,7 +7,7 @@ for ($i = $rows; $i >= 1; $i--) {
     for ($j = 1; $j <= (2 * $i - 1); $j++) {
         echo "* ";
     }
-    echo "\n";
+    echo "<br>";
 }
 
 echo "This code is executed by Sanyam Bansal!";
