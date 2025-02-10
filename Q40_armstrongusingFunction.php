@@ -19,6 +19,6 @@ $flag = armstrongCheck($number);
 if ($flag == 1)
 	echo "Yes";
 else
-	echo "No"
+	echo "No";
 echo "<br> This code is executed by Sanyam Bansal!";
 >
