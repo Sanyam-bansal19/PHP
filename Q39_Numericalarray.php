@@ -5,7 +5,7 @@
      
     foreach( $numbers as $value )
     {
-        echo "Value is $value\n";
+        echo "Value is $value<br>";
     }
 
     $numbers[0] = "one";
@@ -16,7 +16,7 @@
     
     foreach( $numbers as $value )
     {
-        echo "Value is $value\n";
+        echo "Value is $value<br>";
     }
     echo "<br> This code is executed by Sanyam Bansal!";
 ?>
